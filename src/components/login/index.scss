@@ -1,0 +1,42 @@
+// .form-input {
+//   background-image: url("../../assets/img/books-background.jpg");
+//   background-repeat: no-repeat;
+//   background-size: cover;
+//   min-height: 1007px;
+// }
+.form-input-container {
+  max-width: 600px;
+  margin: auto;
+  //   margin-left: 9%;
+}
+
+.form-input-content {
+  border: 1px solid #ccc;
+  margin-top: 20%;
+  box-shadow: 0px 0px 3px 1px #ccc;
+  background-color: #fff;
+  border-radius: 8px;
+  // padding: 16px;
+}
+
+.title-login {
+  margin: 0px;
+  padding: 16px;
+  text-align: center;
+  padding-right: 50px;
+}
+
+.btnLogin {
+  // align-items: flex-end;
+  //   text-align: end;
+  padding: 16px;
+  max-width: 600px;
+}
+
+.btn-login {
+  width: 100%;
+  background-color: #001529;
+  &:hover {
+    background-color: #02213d;
+  }
+}

@@ -1,6 +1,5 @@
 import { Button, Typography } from "antd";
 import { ButtonType } from "antd/es/button";
-import React from "react";
 import { Link } from "react-router-dom";
 interface IProps {
   linkBtn: string;
