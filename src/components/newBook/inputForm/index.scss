@@ -1,0 +1,37 @@
+.inputContainer {
+  min-height: 425px;
+  background-color: white;
+  padding: 24px;
+  max-width: 90%;
+  margin: auto;
+  margin-top: 5%;
+}
+
+.inputFrom {
+  display: flex;
+
+}
+
+.inputContent {
+  width: 70%;
+  padding: 16px;
+}
+
+.upLoadImg {
+  width: 30%;
+  padding: 16px;
+}
+
+.btn {
+  display: flex;
+  padding: 16px;
+  justify-content: end;
+}
+
+.btnAction {
+  padding: 16px;
+}
+
+.btnSave article {
+  color: white;
+}
